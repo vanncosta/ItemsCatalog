@@ -1,4 +1,4 @@
-# Projeto Catalogo de Itens
+# Items Catalog Project
 
 
 ## About
