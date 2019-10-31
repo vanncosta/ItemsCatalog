@@ -12,6 +12,7 @@ Developed to _Full Stack Web Developer Nanodegree program_.
 * JSON endpoints.
 
 ## Project Structure
+```
 .
 ├── application.py
 ├── fb_client_secrets.json
@@ -31,6 +32,7 @@ Developed to _Full Stack Web Developer Nanodegree program_.
     ├── deleteCategoryItem.html
     ├── editCategoryItem.html
     └── login.html
+```
 
 ## Prerequisites
 
